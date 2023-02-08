@@ -1,5 +1,5 @@
  ```@meta
-    CurrentModule = NewPackage 
+    CurrentModule = OCP 
     ```
 
     ```@contents
@@ -10,6 +10,6 @@
     This page is a dump of all the docstrings found in the code. 
 
     ```@autodocs
-    Modules = [NewPackage]
+    Modules = [OCP]
     Order = [:module, :type, :function, :macro]
     ```

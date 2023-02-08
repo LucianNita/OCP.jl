@@ -5,8 +5,8 @@ makedocs(
     sitename = "OCP.jl",
     format = Documenter.HTML(prettyurls = false),
     pages = [
-        "Introduction" => "docs/src/index.md",
-        "API" => "docs/src/api.md"
+        "Introduction" => "index.md",
+        "API" => "api.md"
     ]
 )
 
